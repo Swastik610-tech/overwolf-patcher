@@ -1,0 +1,8 @@
+# This file is used to override language statistics
+docs/** linguist-vendored
+src/**/*.ts linguist-detectable
+
+*.tsx linguist-detectable
+* text=auto eol=lf
+*.html linguist-vendored
+*.ico binary
